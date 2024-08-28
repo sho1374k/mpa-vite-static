@@ -1,5 +1,7 @@
 {
   "name": "mpa-vite-threejs",
+  "description": "This repository is a simple static site template using vite.",
+  "author": "Shoya Kajita",
   "private": true,
   "version": "0.0.0",
   "type": "module",
